@@ -1,0 +1,8 @@
+# Copy privately to .streamlit/secrets.toml and fill locally. Never commit secrets.
+[smtp]
+DEK_SMTP_HOST = ""
+DEK_SMTP_PORT = "587"
+DEK_SMTP_SECURITY = "starttls"
+DEK_SMTP_USERNAME = ""
+DEK_SMTP_PASSWORD = ""
+DEK_SMTP_FROM = ""
